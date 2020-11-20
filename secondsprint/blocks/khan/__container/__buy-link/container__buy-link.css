@@ -1,0 +1,12 @@
+.container__buy-link{
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  color: #2f80ed;
+  font-weight: normal;
+}
+.container__buy-link:hover{
+  text-decoration: underline;
+  opacity: 50%
+
+}

@@ -1,0 +1,11 @@
+.header__title{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 64px;
+  font-size: 96px;
+  line-height: 102px;
+  width: 730px;
+  font-weight: 600;
+}

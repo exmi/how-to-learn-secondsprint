@@ -1,0 +1,8 @@
+.container__quote{
+  display: flex;
+  width: 790px;
+  margin: 50px 0 0 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
