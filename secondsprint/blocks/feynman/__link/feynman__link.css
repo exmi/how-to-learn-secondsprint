@@ -8,7 +8,7 @@
   z-index: 1;
   color: #2f80ed;
 }
-.feyman__link:hover{
+.feynman__link:hover{
   text-decoration: underline;
   opacity: 50%;
 }
